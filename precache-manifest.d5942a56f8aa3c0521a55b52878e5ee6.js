@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "12563170165bf72404749d6a197d6576",
-    "url": "/react-setup/static/media/Poppins-Bold.12563170.ttf"
+    "revision": "e9c5ba8abfbda55da98d30418ea2ef14",
+    "url": "/react-setup/static/media/Poppins-Light.e9c5ba8a.svg"
   },
   {
     "revision": "edc35ad5cf92c08d27db",
@@ -28,52 +28,52 @@ self.__precacheManifest = [
     "url": "/react-setup/static/media/Poppins-Light.1a473b7e.ttf"
   },
   {
-    "revision": "e9c5ba8abfbda55da98d30418ea2ef14",
-    "url": "/react-setup/static/media/Poppins-Light.e9c5ba8a.svg"
+    "revision": "70ec9d495090cd7d7ece81245749f32b",
+    "url": "/react-setup/static/media/Poppins-Bold.70ec9d49.woff"
   },
   {
     "revision": "18341c83b597899abef370be38cd2261",
     "url": "/react-setup/static/media/Poppins-Bold.18341c83.eot"
   },
   {
-    "revision": "70ec9d495090cd7d7ece81245749f32b",
-    "url": "/react-setup/static/media/Poppins-Bold.70ec9d49.woff"
+    "revision": "12563170165bf72404749d6a197d6576",
+    "url": "/react-setup/static/media/Poppins-Bold.12563170.ttf"
   },
   {
     "revision": "edc35ad5cf92c08d27db",
     "url": "/react-setup/static/js/main.edc35ad5.chunk.js"
   },
   {
-    "revision": "06cc38447a4a6c307fac0aa34e30d51d",
-    "url": "/react-setup/static/media/Poppins-SemiBold.06cc3844.eot"
-  },
-  {
     "revision": "e1786e71bd2530a3565cad6b408287b0",
     "url": "/react-setup/static/media/Poppins-SemiBold.e1786e71.woff"
   },
   {
-    "revision": "e3abea43285d65be1dfe0cc862464354",
-    "url": "/react-setup/static/media/Poppins-SemiBold.e3abea43.ttf"
+    "revision": "06cc38447a4a6c307fac0aa34e30d51d",
+    "url": "/react-setup/static/media/Poppins-SemiBold.06cc3844.eot"
   },
   {
     "revision": "d502e3f6d0743e3ae51dc112cd0aeb40",
     "url": "/react-setup/static/media/Poppins-Bold.d502e3f6.svg"
   },
   {
-    "revision": "34f17c61d18ca613aa76829725b1dd70",
-    "url": "/react-setup/static/media/Poppins-ExtraBold.34f17c61.eot"
+    "revision": "e3abea43285d65be1dfe0cc862464354",
+    "url": "/react-setup/static/media/Poppins-SemiBold.e3abea43.ttf"
   },
   {
     "revision": "e711bd343c4215ab2fa95025daea2206",
     "url": "/react-setup/static/media/Poppins-ExtraBold.e711bd34.woff"
   },
   {
-    "revision": "79fe032cb130afe05a78293677436c10",
-    "url": "/react-setup/static/media/Poppins-ExtraBold.79fe032c.ttf"
+    "revision": "34f17c61d18ca613aa76829725b1dd70",
+    "url": "/react-setup/static/media/Poppins-ExtraBold.34f17c61.eot"
   },
   {
     "revision": "fe635bc0ec2f37fb6ebe60217fff5798",
     "url": "/react-setup/static/media/Poppins-SemiBold.fe635bc0.svg"
+  },
+  {
+    "revision": "79fe032cb130afe05a78293677436c10",
+    "url": "/react-setup/static/media/Poppins-ExtraBold.79fe032c.ttf"
   },
   {
     "revision": "c2d8bf195b430b8775ab8908e53344a9",
