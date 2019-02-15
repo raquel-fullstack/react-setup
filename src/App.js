@@ -1,28 +1,27 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react'
+import { BrowserRouter as Router, Route } from "react-router-dom"
+import { hot } from 'react-hot-loader'
+
+import Header from "./components/header.js"
+import Register from "./containers/register.js"
+
+import './stylesheets/main.scss'
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn more
-          </a>
-        </header>
-      </div>
+      <Router>
+        <div className="container">
+          <Header />
+
+          <div className="main">
+            <Route exact path="/" />
+            <Route path="/register" component={Register} />
+          </div>
+        </div>
+    </Router>
     );
   }
 }
 
-export default App;
+export default hot(module)(App)

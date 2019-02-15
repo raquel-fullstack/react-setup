@@ -1,0 +1,33 @@
+.header {
+  background-color: $rhino;
+  border-bottom: 1px solid $marguerite;
+
+  &__container {
+    height: 104px;
+  }
+ 
+  &__logo {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+
+  @include respond-to(md-down) {
+    background-color: transparent;
+    border: none;
+
+    &__container {
+      height: 228px;
+    }
+
+    &__logo {
+      justify-content: center;
+    }
+  }
+
+  @include respond-to(xs) {
+    &__container {
+      height: 153px;
+    }
+  }
+}

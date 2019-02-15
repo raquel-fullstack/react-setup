@@ -1,0 +1,19 @@
+//utils
+@import 
+  'utils/functions',
+  'utils/mixins',
+  'utils/variables';
+
+//base
+@import 
+  'base/base',
+  'base/fonts',
+  'base/typography';
+
+//layout
+@import
+  'layout/header';
+
+  //pages
+@import 
+  'pages/register';
